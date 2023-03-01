@@ -147,6 +147,27 @@ body{
     margin-bottom: 10%;
 
 }
-.last{
+#subscribeimg{
+    width: 800px;
+    height: fit-content;
+    border-radius: 20px;
+    margin: 0% 20% 0% 10%;   
+}
+.Last{
     display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+input{
+    padding: 23px;
+    width: 250px
+    margin-left 30px;
+
+}
+buttonLast{
+    margin-left: -50px;
+}
+.move{
+    margin-top: -30%;
 }
